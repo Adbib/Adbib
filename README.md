@@ -6,12 +6,15 @@ Full Stack Developer
 
 I've been in this game for more than 10+ years now starting from gaming menia To curious about how things are built on the internet, I make small games, change windows look & core to develop websites and apps to find my passion in entrepreneurship and combine all that to improve my self every day
 
-*   🌍  I'm based in Morocco
-*   🖥️  See my portfolio at [My WebSite](http://yadbib.me)
-*   ✉️  You can contact me at [mradbib@gmail.com](mailto:mradbib@gmail.com)
-*   🚀  I'm currently working on [YADbib](http://Yadbib.me)
-*   🧠  I'm learning RemixJS, AI, JS Performance
-*   🤝  I'm open to collaborating on any open source projects based with js and any busniess need push to start### Skills<p align="left">
+*   🌍  I'm based in Morocco
+*   🖥️  See my portfolio at [My WebSite](http://yadbib.me)
+*   ✉️  You can contact me at [mradbib@gmail.com](mailto:mradbib@gmail.com)
+*   🚀  I'm currently working on [YADbib](http://Yadbib.me)
+*   🧠  I'm learning RemixJS, AI, JS Performance
+*   🤝  I'm open to collaborating on any open source projects based with js and any busniess need push to start
+
+### Skills
+<p align="left">
                                 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
                                 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
@@ -36,24 +39,17 @@ I've been in this game for more than 10+ years now starting from gaming menia To
                                 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
                     </p>
                     
-                  ### Socials
+
+### Socials
                   
-                  
-                <p align="left">
-                          
-                      <a href="https://www.facebook.com/facebook.com/adbibyoussef" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/Adbib" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/yadbib" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/youssef-adbib-723087131/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.polywork.com/yad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/AdbibYoussef" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.youtube.com/c/YoussefAdbib" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/Adbib"><img src="https://github-readme-stats.vercel.app/api?username=Adbib&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Adbib's GitHub stats" /></a><a
-                      href="http://www.github.com/Adbib"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=Adbib&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/Adbib" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adbib&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="left"> <a href="https://www.facebook.com/facebook.com/adbibyoussef" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Adbib" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/yadbib" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/youssef-adbib-723087131/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.polywork.com/yad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/AdbibYoussef" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/YoussefAdbib" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Adbib"><img src="https://github-readme-stats.vercel.app/api?username=Adbib&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Adbib's GitHub stats" /></a>
+
+<a href="http://www.github.com/Adbib"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Adbib&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/Adbib" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adbib&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
