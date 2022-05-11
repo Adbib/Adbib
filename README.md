@@ -4,7 +4,7 @@ Hi 👋 My name is YAD
 Full Stack Developer
 --------------------
 
-I've been in this game for more than 10+ years now starting from gaming menia To curious about how things are built on the internet, I make small games, change windows look & core to develop websites and apps to find my passion in entrepreneurship and combine all that to improve my self every day
+I've been in this game for more than 10+ years now starting from gaming menia To curious about how things are built on the internet, I make small games, change windows looks & core and going to develop websites and apps to find my passion in entrepreneurship and combine all that to improve my self every day
 
 *   🌍  I'm based in Morocco
 *   🖥️  See my portfolio at [My WebSite](http://yadbib.me)
