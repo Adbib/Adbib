@@ -11,7 +11,7 @@ I've been in this game for more than 10+ years now starting from gaming menia To
 *   ✉️  You can contact me at [mradbib@gmail.com](mailto:mradbib@gmail.com)
 *   🚀  I'm currently working on [YADbib](http://Yadbib.me)
 *   🧠  I'm learning RemixJS, AI, JS Performance
-*   🤝  I'm open to collaborating on any open source projects based with js and any busniess need push to start
+*   🤝  I'm open to collaborating on any open source projects, and any busniess need technical push to start
 
 ### Skills
 <p align="left">
