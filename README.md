@@ -9,7 +9,7 @@ I've been in this game for more than 10+ years now starting from gaming menia To
 *   🌍  I'm based in Morocco
 *   🖥️  See my portfolio at [My WebSite](http://yadbib.me)
 *   ✉️  You can contact me at [mradbib@gmail.com](mailto:mradbib@gmail.com)
-*   🚀  I'm currently working on [YADbib](http://Yadbib.me) [Develp](http://develp.agency)
+*   🚀  I'm currently working on [YADbib](http://Yadbib.me), [Develp](http://develp.agency)
 *   🧠  I'm learning RemixJS, JS Performance
 *   🤝  I'm open to collaborating on any open source projects, and any busniess need technical push to start
 
